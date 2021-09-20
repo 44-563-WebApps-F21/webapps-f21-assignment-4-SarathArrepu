@@ -1,0 +1,32 @@
+.speech {
+    /*text-align: center;*/
+    font : 'Times New Roman';
+    font-size: 17px;
+    color: black;
+  }
+
+  .stage-direction{
+    font : 'sans-serif';
+    background-color: aquamarine;
+    font-size: 17px;
+    color: black;
+  }
+
+  .name{
+    font : 'sans';
+    font-size: 17px;
+    color: black;
+  }
+
+  .stage-direction:hover{
+    background-color: blue;
+    color: red;
+  }
+
+  .goring{
+    color: orange;
+  }
+
+  .phipps{
+      color: yellow;
+  }
