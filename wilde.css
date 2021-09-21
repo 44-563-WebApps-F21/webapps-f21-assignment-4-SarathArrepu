@@ -1,7 +1,14 @@
 .speech {
     /*text-align: center;*/
     font : 'Times New Roman';
-    font-size: 17px;
+    font-size: 14px;
+    color: black;
+  }
+
+  .description {
+    /*text-align: center;*/
+    font : 'Times New Roman';
+    font-size: 16px;
     color: black;
   }
 
