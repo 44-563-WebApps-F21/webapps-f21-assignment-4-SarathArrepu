@@ -38,7 +38,7 @@
       color: yellow;
   }
   table{
-    border: 4px dashed rgb(59, 24, 24);
+    border: 1px solid rgb(59, 24, 24);
     padding: 30px 35px 40px;
     margin: 50px 50px;
     width: 60%; 
@@ -67,7 +67,7 @@
   }
 
   a:link, a:visited {
-    background-color: white;
+    background-color:red;
     color: black;
     border: 2px mixed rgb(40, 49, 40);
     padding: 10px 20px;
@@ -76,9 +76,9 @@
     display: inline-block;
   }
   
-  a:hover, a:active {
+  a:hover {
     background-color: green;
-    color: white;
+    color:black;
   }
 
   ul {
