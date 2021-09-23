@@ -38,7 +38,7 @@
       color: yellow;
   }
   table{
-    border: 1px solid rgb(59, 24, 24);
+    border: 2px solid rgb(59, 24, 24);
     padding: 30px 35px 40px;
     margin: 50px 50px;
     width: 60%; 
@@ -99,15 +99,9 @@
     color: white;
     width: auto;
   }
-  
-  /*li {
-    float: left;
+
+  img {
+    border-radius: 8px;
   }
-  
-  a {
-    display: block;
-    padding: 8px;
-    background-color: #e02222;
-  }*/
 
   
